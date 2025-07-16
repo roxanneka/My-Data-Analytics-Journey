@@ -1,7 +1,6 @@
 # My-Data-Analytics-Journey
 A curious mind learning to turn data into insight, story, and magic.
 
-
 # 🧙‍♀️ Roshanak | Oracle's Apprentice of Data 🔮
 
 > “Some read tea leaves. I read datasets.”  
@@ -28,8 +27,6 @@ Currently exploring patterns, people, and pixels — one dataset at a time.
 - 📘 [Learning Plan](https://github.com/roxanneka/My-Data-Analytics-Journey/blob/main/learning-plan.md)  
 - 💡 [Project Ideas](https://github.com/roxanneka/My-Data-Analytics-Journey/blob/main/project-ideas.md)  
 - 📝 [Notes & Scrolls](https://github.com/roxanneka/My-Data-Analytics-Journey/tree/main/notes)
-- 
-> 🧵 *Weaving meaning into madness, one variable at a time.*
 
 ---
 
@@ -38,6 +35,7 @@ Currently exploring patterns, people, and pixels — one dataset at a time.
 By day I whisper to numbers.  
 By night I breathe life into threads, textures, and tangled thoughts.  
 🧶 [@rosh.artz – My handmade art](https://www.instagram.com/rosh.artz)
+
 ---
 
 ## 🧭 Let’s Connect
@@ -46,7 +44,7 @@ By night I breathe life into threads, textures, and tangled thoughts.
 |---------|------|
 | 📸 Instagram | [@rosh.artz](https://www.instagram.com/rosh.artz) |
 | 💼 LinkedIn | [Roshanak Kashefi](https://www.linkedin.com/in/roshanak-kashefi-mofrad/) |
-| 📊 AlchemyOfData | _Coming soon!_ |
+| 📊 AlchemyOfData | [@alchemyofdata – My upcoming data lab](https://www.instagram.com/alchemyofdata) *(just born – stay tuned!)* |
 | 📊 Kaggle | _Coming soon_ |
 | ✍🏻 Medium | _Coming soon_ |
 
